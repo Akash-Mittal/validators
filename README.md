@@ -7,7 +7,7 @@ Toolkit for Enterprise Level Validations.`Project Validator` also use `Guava` Li
 
 ### Maven
     
- * ADd Repository in `pom.xml` .
+ * Add Repository in `pom.xml` .
     
         <repositories>
           <repository>
@@ -18,8 +18,8 @@ Toolkit for Enterprise Level Validations.`Project Validator` also use `Guava` Li
 
 * Then Add Dependency.  
 
-      	<dependency>
+      <dependency>
           <groupId>com.github.Akash-Mittal</groupId>
               <artifactId>validators</artifactId>
           <version>master-SNAPSHOT</version>
-    	  </dependency>
+      </dependency>
