@@ -1,6 +1,6 @@
 # validators
 
-Toolkit for Enterprise Level Validations.`Project Validator` also use `Guava` Libraries.
+Toolkit for Enterprise Level Validations.
 
 
 ## How to add as Dependency.
